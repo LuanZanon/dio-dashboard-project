@@ -1,10 +1,7 @@
 # ☕ Dashboard de Vendas - Coffee Shop
 
 ## Sobre o Projeto
-Este projeto consiste na criação de um dashboard interativo para analisar os dados de vendas de uma cafeteria. O objetivo é transformar dados brutos de transações em insights visuais que ajudem na tomada de decisão.
-
-A base de dados contém histórico de vendas, tipos de café, métodos de pagamento e horários das transações.
-
+Dashboard de análise de vendas criado durante o Bootcamp Santander 2025. A partir de uma base de dados transacional (vendas, produtos e horários), o projeto foca na estruturação de dados e criação de visualizações para monitoramento de KPIs e tendências de consumo.
 ## Estrutura dos Dados
 O dataset utilizado (`index_1.csv`) possui as seguintes colunas principais:
 * **Date/Datetime:** Data e hora exata da venda.

@@ -1,7 +1,7 @@
 # ☕ Dashboard de Vendas - Coffee Shop
 
 ## Sobre o Projeto
-Dashboard de análise de vendas criado durante o Bootcamp Santander 2025. A partir de uma base de dados transacional (vendas, produtos e horários), o projeto foca na estruturação de dados e criação de visualizações para monitoramento de KPIs e tendências de consumo.
+Dashboard de análise de vendas criado durante o Bootcamp Santander 2025. A partir de uma base de dados transacional (vendas, produtos e horários), o projeto foca na estruturação de dados e criação de visualizações para monitoramento de KPIs e vendas.
 ## Estrutura dos Dados
 O dataset utilizado (`index_1.csv`) possui as seguintes colunas principais:
 * **Date/Datetime:** Data e hora exata da venda.
